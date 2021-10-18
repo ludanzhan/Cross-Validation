@@ -79,6 +79,7 @@ The image above suggesting an additional predictor to be added.
    data2 = pd.DataFrame() for i in range(1,8):
    ata2 = data2.append(data[data['MAPE'] == best_mape[i]])
   ```
-
+4. Using _"Seasonal Chart"_ to summary each year's data
+![image](https://github.com/ludanzhan/Cross-Validation/blob/main/seasonal%20chart.png)
 
 
